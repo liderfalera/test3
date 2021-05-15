@@ -23,7 +23,7 @@ p {
 }
 
 header{
-    background-color: fuchsia;
+    background-color: crimson;
     display: flex;
     align-items: center;
     
@@ -40,7 +40,8 @@ header span {
 
 header h4 {
     font-family: cursive;
-    width: 50%;
+    width: 70%; 
     border: 1px solid black;
     order: 1;
+    
 }
