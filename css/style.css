@@ -5,10 +5,11 @@ body{
 .main{
  width: 100rem;
  height: 30vh;
- background-color: floralwhite;
+ background-color: aquamarine;
  margin: 0 auto;
  border-radius: 20px;
  border: 2px solid black;
+ padding-left: 5%;
 }
 
 h1 {
@@ -18,7 +19,9 @@ h1 {
 }
 
 p {
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    border: 1px solid black;
 
 }
 
@@ -51,4 +54,9 @@ header h4 {
     width: 10rem;
     align-items: center;
     margin: 10px;
+}
+button {
+    color: blue;
+    font-weight: bold;
+    font-size: 1.5rem;
 }
