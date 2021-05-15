@@ -23,7 +23,7 @@ p {
 }
 
 header{
-    background-color: crimson;
+    background-color: cornflowerblue;
     display: flex;
     align-items: center;
     
@@ -32,6 +32,7 @@ header{
 
 header span {
     color: green;
+    background-color: blue;
     font-family: monospace;
     height: 100px;
     border: 1px solid black;
@@ -44,4 +45,10 @@ header h4 {
     border: 1px solid black;
     order: 1;
     
+}
+
+.logoimg{
+    width: 10rem;
+    align-items: center;
+    margin: 10px;
 }
